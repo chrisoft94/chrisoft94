@@ -15,7 +15,7 @@
 - 📄 You can view my CV [here] Spanish:(https://drive.google.com/file/d/1kLjLhbOFmVoaJTRDPseYxX5XPyUjYP6C/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">cristian062094@hotmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
