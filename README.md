@@ -209,8 +209,9 @@
 </div>
 
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisoft94&show_icons=true&locale=en&layout=compact" alt="chrisoft94" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisoft94&show_icons=true&locale=en" alt="chrisoft94" /></p>
-
+</div>
 
