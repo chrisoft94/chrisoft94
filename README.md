@@ -19,25 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<style>
-  .tech-icons {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
-    gap: 15px;
-    max-width: 1000px;
-    margin: 0 auto;
-    justify-items: center;
-    align-items: center;
-  }
 
-  .tech-icons a img {
-    transition: transform 0.2s;
-  }
-
-  .tech-icons a:hover img {
-    transform: scale(1.2);
-  }
-</style>
 
 <div class="tech-icons">
   <!-- Visual Studio Code -->
