@@ -44,15 +44,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/>
 </a>
 
-<!-- Gemini (Google AI) -->
-<a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Google_Gemini_logo.svg" alt="gemini" width="40" height="40"/>
-</a>
 
-<!-- JUnit -->
-<a href="https://junit.org/" target="_blank" rel="noreferrer">
-  <img src="/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/>
-</a>
 
 <!-- Mockito -->
 <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
