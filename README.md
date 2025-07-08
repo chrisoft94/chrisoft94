@@ -51,7 +51,7 @@
 
 <!-- JUnit -->
 <a href="https://junit.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/JUnit_5_Banner.png" alt="junit" width="40" height="40"/>
+  <img src="/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/>
 </a>
 
 <!-- Mockito -->
