@@ -12,7 +12,7 @@
 - 👯 I’m open to collaborating on exciting projects, such as [Page with Avanza Empleo](https://www.avanzaempleo.com.co).
 
 
-- 📄 You can view my CV [here] Spanish:(https://drive.google.com/file/d/1M4v5Q_-4l9ylnq196Ir9wtYJa7sR-WXw/view?usp=drive_link).
+- 📄 You can view my CV [here] Spanish:([https://drive.google.com/file/d/1M4v5Q_-4l9ylnq196Ir9wtYJa7sR-WXw/view?usp=drive_link](https://drive.google.com/file/d/1ynH0GMKvxM4mZbGVQLdGrtEKBb1JQxxg/view?usp=drive_link).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">cristian062094@hotmail.com
