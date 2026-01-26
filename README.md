@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisoft94&label=Profile%20views&color=0e75b6&style=flat" alt="chrisoft94" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisoft94" alt="chrisoft94" /></a> </p>
+
 
 - 🔭 I was working on [WeKeep](https://wekeep.nervion.app), a social network designed to enhance personal and professional connections.
   
